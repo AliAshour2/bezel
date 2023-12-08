@@ -655,9 +655,7 @@ header .arrow-box > button:hover::before {
   text-decoration: none;
 }
 
-.prices .section-title h2[data-bigletter]::before{
-  z-index: 1;
-}
+
 
 /* End price */
 
