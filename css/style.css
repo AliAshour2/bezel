@@ -283,7 +283,7 @@ header .arrow-box > button:hover::before {
 }
 
 .home .carousel-inner .item2 {
-  background-image: url("../assets/bgImg2.jpg");
+  background-image: url("../assets/bgimg2.jpg");
   background-position: center;
   background-size: cover;
   height: 100vh;
