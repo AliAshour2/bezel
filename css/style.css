@@ -211,6 +211,9 @@ ul {
   color: #444;
 }
 
+
+
+
 .navbar .navbar-toggler:focus,
 .navbar .navbar-toggler:active,
 .navbar .navbar-toggler-icon:focus {
@@ -272,7 +275,7 @@ header .arrow-box > button:hover::before {
 }
 
 .home .carousel-inner .item1 {
-  background-image: url("/assets/bg-image-28.jpg"),
+  background-image: url("../assets/bg-image-28.jpg"),
     linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
   background-position: center;
   background-size: cover;
@@ -280,7 +283,7 @@ header .arrow-box > button:hover::before {
 }
 
 .home .carousel-inner .item2 {
-  background-image: url("/assets/bg-image-29.jpg");
+  background-image: url("../assets/bg-image-29.jpg");
   background-position: center;
   background-size: cover;
   height: 100vh;
